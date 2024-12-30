@@ -58,9 +58,3 @@ A simple web application that converts Markdown text into HTML. Users can enter 
 
 ### Output Page
 - HTML preview and download options.
-
-## Contributing
-Feel free to fork the repository and submit pull requests for new features or bug fixes.
-
-## License
-This project is licensed under the MIT License.
